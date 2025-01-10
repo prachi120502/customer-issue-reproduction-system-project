@@ -1,0 +1,9 @@
+Creating a customer issue reproduction system in a single file using Python, Bash, Docker, and psutil 
+is a great way to demonstrate a simple project. Below is an example of how you might structure such a project.
+ This example will simulate a basic customer issue reproduction system that captures system metrics and runs a Docker container to simulate an application.
+Project Overview
+Python: To handle the main logic and system metrics.
+Bash: To manage Docker commands.
+Docker: To run a sample application.
+psutil: To gather system metrics.
+this project was so usefull for companies
